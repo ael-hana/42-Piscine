@@ -1,0 +1,4 @@
+dn:uid=ael-hana,ou=2014,ou=people,dc=42,dc=fr
+changetype:modify
+add:mobile-phone
+mobile-phone:07 52 39 16 24
